@@ -43,7 +43,7 @@ wp_enqueue_style('Servicios Personalizado', get_stylesheet_directory_uri().'/ser
                     <div class="row">
                         <div class="col col-12 col-md-10 offset-md-1 col-lg-6">
                             <p class="c-hero-video-3__text">
-                                Cada persona tiene su propia historia única y LHH está ahí para cada momento de carrera clave.
+                                En el competitivo mercado laboral de hoy en día, es más importante que nunca comprender las habilidades y capacidades de tu plantilla y realizar inversiones en talento inteligentes e informadas. LHH facilita el conocimiento que necesitas para tomar mejores decisiones en materia de contratación, desarrollo, coaching, reubicación y ascensos..
                             </p>
                         </div>
                         <div class="col col-12 col-md-10 offset-md-1 col-lg-4 offset-lg-0">
@@ -81,14 +81,14 @@ wp_enqueue_style('Servicios Personalizado', get_stylesheet_directory_uri().'/ser
                 <div class="col-lg-10 offset-lg-1">
                     <div class="js-tabs">
                         <h2 class="c-tabs__heading">
-                            Nuestras evaluaciones brindan información procesable para el aquí y ahora que revelan la oportunidad.
-                            En cada persona, en todos los niveles de la organización. </h2>
+                           Tu estrategia empresarial y las personas que la ejecutan son únicas. ¿Lo es tu programa de assessment?
+. </h2>
                         <div class="c-tabs__tabbar js-tabs__tabbar">
                             <div class="c-tabs__sticky"></div>
                             <ul class="c-tabs__tablist js-tabs__tablist">
                                 <li class="c-tabs__tablist-item">
-                                    <a class="c-tabs__tab" id="Soluciones-de-assessments"
-                                        >Soluciones de assessments</a>
+                                    <a class="c-tabs__tab" id="Resumen"
+                                        >Resumen</a>
                                 </li>
                             </ul>
                             <button class="c-tabs__prev js-tabs__prev o-icon o-icon--arrow"
@@ -96,29 +96,32 @@ wp_enqueue_style('Servicios Personalizado', get_stylesheet_directory_uri().'/ser
                             <button class="c-tabs__next js-tabs__next o-icon o-icon--arrow"
                                 aria-label="Scroll Right"></button>
                         </div>
-                        <div class="c-tabs__panel js-tabs__panel" id="Soluciones-de-assessments">
+                        <div class="c-tabs__panel js-tabs__panel" id="Resumen">
                             <div class="container c-text-block">
                                 <div class="row">
                                     <div class="col-lg-8 offset-lg-1">
                                         <div class="rich-text">
-                                            <p><strong>Perspectivas accionables<br></strong>Tu talento representa el single.
-                                                Elemento más grande del presupuesto operativo de su empresa, y su negocio '
-                                                El crecimiento depende en gran medida de la calidad y la preparación de ese talento.Aún,
-                                                ¿Cuánto lo sabes realmente?¿Tienes los datos y las ideas?
-                                                ¿Necesita tomar decisiones e invertir en su gente con confianza?
+											
+											<p><img src="/wp-content/uploads/2021/06/resumen.jpg" width="990" height="557"/> </p>
+												
+                                            <p><strong>Assessment y análisis<br></strong>
+                                                El talento de tu organización, representa el mayor presupuesto operativo de tu empresa.
+												El crecimiento de tu negocio depende en gran medida de la calidad y la formación de dicho
+												talento. Y, sin embargo, ¿cuánto sabes realmente sobre él?  ¿Dispones de los datos y los
+												conocimientos necesarios para tomar decisiones e invertir en personal con confianza?
                                             </p>
-                                            <p>Las evaluaciones de talento y las soluciones de análisis de LHH lo traen en profundidad,
-                                                Objetivo, ideas accionables en su gente, por lo que se informa.
-                                                decisiones sobre quiénes son los mejores candidatos para contratar, quiénes son los
-                                                empleados con el mayor potencial de éxito, y que los líderes tienen
-                                                Lo que se necesita para conducir el éxito de su empresa.</p>
-                                            <p><strong>Flexibilidad importa<br></strong>Con un rango completo, la mejor clase
-                                                portafolio de evaluaciones psicométricas, multi-clasificatorias y de equipo, así como
-                                                Simulaciones de trabajo y encuestas organizativas, entregamos ideas de talento.
-                                                Contextualizado a su empresa y su cultura única.Nuestra
-                                                Los modelos de liderazgo basados en la investigación se pueden adaptar a su empresa, y usted
-                                                Puede elegir la mejor manera para que su gente acceda a las evaluaciones, en línea,
-                                                a través de centros de evaluación, u otros canales preferidos.</p>
+                                            <p>Las soluciones de evaluación y análisis del talento de LHH te proporcionan información
+												pormenorizada, objetiva y factible sobre las personas, para que puedas tomar decisiones
+												informadas sobre los mejores candidatos que puedes contratar, los empleados con más
+												probabilidades de triunfar y los líderes que tienen lo que hace falta para impulsar el
+												éxito de la empresa.</p>
+                                            <p><strong>Flexibilidad importa<br></strong>Gracias a una extensa gama de herramientas de
+												evaluación—compuesta por evaluaciones psicométricas, múltiples y de equipo, así como 
+												por simulaciones de trabajo y encuestas sobre la organización—, somos capaces de ofrecer
+												información sobre el talento adaptada al contexto de tu empresa y tu cultura única. 
+												Nuestros modelos de liderazgo basados en la investigación pueden adaptarse a tu empresa 
+												y puedes elegir la mejor manera para que tus empleados accedan a las evaluaciones: online,
+												desde centros de evaluación o a través de otros canales preferidos.</p>
                                             <div>&nbsp;</div>
                                         </div>
                                     </div>
